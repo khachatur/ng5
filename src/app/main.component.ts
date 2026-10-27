@@ -1,6 +1,4 @@
 import { Component } from '@angular/core';
 
-@Component({
-  templateUrl: './welcome.component.html'
-})
+@Component({ templateUrl: './welcome.component.html' })
 export class MainComponent {}
